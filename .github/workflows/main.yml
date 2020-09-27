@@ -31,4 +31,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          ruby --version
+          gem install bundler
           bundle update

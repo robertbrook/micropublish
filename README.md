@@ -132,7 +132,7 @@ Alternatively, you can host Micropublish yourself.
 
 I recommend running this on Heroku using the _Deploy to Heroku_ button.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/barryf/micropublish)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/robertbrook/micropublish)
 
 If you host on your own server you will need to define the `COOKIE_SECRET`
 environment variable. You should use a long, secure, (ideally) random string
